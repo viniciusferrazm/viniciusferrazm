@@ -4,7 +4,7 @@
 - 🖥 Trabalho como Engenheiro de Qualidade de Software Pleno
 - 💻 Principalmente com testes de API e automação com Rest-Assured
 - 📱 Fortes habilidades em testes manuais Mobile, Web e API
-- 💻 Testes regressivos, testes funcionais e não funcionais e Smoke Tests
+- 💻 Testes regressivos, testes funcionais, não-funcionais e Smoke Tests
 - 📚 Constantemente estudando novas ferramentas como: Cypress, Selenium, Appium entre outras
 - 🏡 Sou de Uberlândia - MG
 ##
