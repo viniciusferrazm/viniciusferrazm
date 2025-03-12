@@ -1,11 +1,12 @@
 ### Olá, me chamo Vinicius Ferraz 👋🏻...
 
 
-- 🖥 Trabalho como Engenheiro de Qualidade de Software Pleno
-- 💻 Principalmente com testes de API e automação com Rest-Assured
+- 🖥 Sou Engenheiro de Qualidade de Software Senior
+- 💻 Atuando diretamente com Automação de testes
+- 💻 Automação Web End-to-End com Cypress e Backend com RestAssured
 - 📱 Fortes habilidades em testes manuais Mobile, Web e API
 - 💻 Testes regressivos, testes funcionais, não-funcionais e Smoke Tests
-- 📚 Constantemente estudando novas ferramentas como: Cypress, Selenium, Appium entre outras
+- 📚 Constantemente estudando novas ferramentas como: Selenium, Appium, JMeter, Karate, Gatling e etc.
 - 🏡 Sou de Uberlândia - MG
 ##
 
